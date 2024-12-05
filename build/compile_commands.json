@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/yash2/Desktop/COP3504C/minesweeper/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/minesweeper.dir/includes_CXX.rsp -g -o CMakeFiles\\minesweeper.dir\\Button.cpp.obj -c C:\\Users\\yash2\\Desktop\\COP3504C\\minesweeper\\Button.cpp",
+  "file": "C:/Users/yash2/Desktop/COP3504C/minesweeper/Button.cpp",
+  "output": "CMakeFiles/minesweeper.dir/Button.cpp.obj"
+},
+{
+  "directory": "C:/Users/yash2/Desktop/COP3504C/minesweeper/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/minesweeper.dir/includes_CXX.rsp -g -o CMakeFiles\\minesweeper.dir\\GameState.cpp.obj -c C:\\Users\\yash2\\Desktop\\COP3504C\\minesweeper\\GameState.cpp",
+  "file": "C:/Users/yash2/Desktop/COP3504C/minesweeper/GameState.cpp",
+  "output": "CMakeFiles/minesweeper.dir/GameState.cpp.obj"
+},
+{
+  "directory": "C:/Users/yash2/Desktop/COP3504C/minesweeper/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/minesweeper.dir/includes_CXX.rsp -g -o CMakeFiles\\minesweeper.dir\\Tile.cpp.obj -c C:\\Users\\yash2\\Desktop\\COP3504C\\minesweeper\\Tile.cpp",
+  "file": "C:/Users/yash2/Desktop/COP3504C/minesweeper/Tile.cpp",
+  "output": "CMakeFiles/minesweeper.dir/Tile.cpp.obj"
+},
+{
+  "directory": "C:/Users/yash2/Desktop/COP3504C/minesweeper/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/minesweeper.dir/includes_CXX.rsp -g -o CMakeFiles\\minesweeper.dir\\ToolBox.cpp.obj -c C:\\Users\\yash2\\Desktop\\COP3504C\\minesweeper\\ToolBox.cpp",
+  "file": "C:/Users/yash2/Desktop/COP3504C/minesweeper/ToolBox.cpp",
+  "output": "CMakeFiles/minesweeper.dir/ToolBox.cpp.obj"
+},
+{
+  "directory": "C:/Users/yash2/Desktop/COP3504C/minesweeper/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/minesweeper.dir/includes_CXX.rsp -g -o CMakeFiles\\minesweeper.dir\\minesweeper.cpp.obj -c C:\\Users\\yash2\\Desktop\\COP3504C\\minesweeper\\minesweeper.cpp",
+  "file": "C:/Users/yash2/Desktop/COP3504C/minesweeper/minesweeper.cpp",
+  "output": "CMakeFiles/minesweeper.dir/minesweeper.cpp.obj"
+}
+]

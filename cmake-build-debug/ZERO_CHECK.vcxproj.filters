@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\yash2\Desktop\COP3504C\minesweeper\cmake-build-debug\CMakeFiles\7ea27c5089f15cea482ecaadf25b3cd3\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A4E7BE77-87F7-33AE-BE54-5857B3A61B30}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
